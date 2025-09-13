@@ -5,7 +5,7 @@ class ApiKeys {
   // Google Maps API
   static String get googleMapsApiKey =>
       dotenv.env['GOOGLE_MAPS_API_KEY'] ??
-      'AIzaSyBxMNR35kci2cYlsm1y-0epDfw66ScKV1w';
+      'AIzaSyBxMNR3531kci2cYlsm1y-0epDfw66ScKV1w';
 
   // OpenWeatherMap API
   static String get openWeatherApiKey =>
